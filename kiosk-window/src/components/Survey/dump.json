@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1234",
+    "student_id": "123455",
+    "body_temparture": "36.5",
+    "danger": "No",
+    "body_check": "Good",
+    "created_at": "2020-07-23",
+    "updated_at": "2020-07-23"
+  },
+  {
+    "id": "1234",
+    "student_id": "123455",
+    "body_temparture": "36.5",
+    "danger": "No",
+    "body_check": "Good",
+    "created_at": "2020-07-24",
+    "updated_at": "2020-07-24"
+  },
+  {
+    "id": "1234",
+    "student_id": "123456",
+    "body_temparture": "36.5",
+    "danger": "Yes",
+    "body_check": "Bad",
+    "created_at": "2020-07-24",
+    "updated_at": "2020-07-24"
+  }
+]

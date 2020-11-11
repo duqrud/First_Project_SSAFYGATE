@@ -1,0 +1,86 @@
+[
+  {
+    "city_no": 1,
+    "city_title": "서울",
+    "city_class": [
+      {
+        "class_no": 1,
+        "class_title": "1반"
+      },
+      {
+        "class_no": 2,
+        "class_title": "2반"
+      },
+      {
+        "class_no": 3,
+        "class_title": "3반"
+      },
+      {
+        "class_no": 4,
+        "class_title": "4반"
+      },
+      {
+        "class_no": 5,
+        "class_title": "5반"
+      }
+    ]
+  },
+  {
+    "city_no": 2,
+    "city_title": "대전",
+    "city_class": [
+      {
+        "class_no": 1,
+        "class_title": "1반"
+      },
+      {
+        "class_no": 2,
+        "class_title": "2반"
+      },
+      {
+        "class_no": 3,
+        "class_title": "3반"
+      }
+    ]
+  },
+  {
+    "city_no": 3,
+    "city_title": "구미",
+    "city_class": [
+      {
+        "class_no": 1,
+        "class_title": "1반"
+      },
+      {
+        "class_no": 2,
+        "class_title": "2반"
+      },
+      {
+        "class_no": 3,
+        "class_title": "3반"
+      },
+      {
+        "class_no": 4,
+        "class_title": "4반"
+      }
+    ]
+  },
+  {
+    "city_no": 4,
+    "city_title": "광주",
+    "city_class": [
+      {
+        "class_no": 1,
+        "class_title": "1반"
+      },
+      {
+        "class_no": 2,
+        "class_title": "2반"
+      },
+      {
+        "class_no": 3,
+        "class_title": "3반"
+      }
+    ]
+  }
+]
